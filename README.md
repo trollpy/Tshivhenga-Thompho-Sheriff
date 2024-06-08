@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trollpy
+- 👋 Hi, I’m @Tshivhenga-Thompho-Sheriff
 - 👀 I’m interested in coding and trading forex
 - 🌱 I’m currently learning python, javascript
 - 💞️ I’m looking to collaborate on web developing, au and full time programming 
