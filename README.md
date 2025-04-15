@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and trading forex
 - 🌱 I’m currently learning python, javascript, FULL STACK DEV, database (mysql, mangoDB),
 - 💞️ I’m looking to collaborate on web developing, au and full time programming 
-- 📫 How to reach me , here or on my mail tshivhenga18@gmail
+- 📫 How to reach me , here or on my mail tshivhenga18@gmail.com
 - ⚡ Fun fact: i dont believe in horoscope bc
 
 <!---
