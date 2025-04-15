@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tshivhenga-Thompho-Sheriff
 - 👀 I’m interested in coding and trading forex
-- 🌱 I’m currently learning python, javascript
+- 🌱 I’m currently learning python, javascript, FULL STACK DEV, database (mysql, mangoDB),
 - 💞️ I’m looking to collaborate on web developing, au and full time programming 
-- 📫 How to reach me , here or on my mail
+- 📫 How to reach me , here or on my mail tshivhenga18@gmail
 - ⚡ Fun fact: i dont believe in horoscope bc
 
 <!---
